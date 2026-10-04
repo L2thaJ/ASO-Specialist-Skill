@@ -1,0 +1,6 @@
+{
+  "name": "aso-specialist",
+  "version": "1.1.0",
+  "description": "Expertly optimizes app listings globally with strict compliance to store character limits and targeted country localization rules.",
+  "entrypoint": "SKILL.md"
+}
