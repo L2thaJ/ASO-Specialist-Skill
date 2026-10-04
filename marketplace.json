@@ -1,0 +1,7 @@
+{
+  id aso-specialist-skill,
+  name ASO Specialist,
+  version 1.0.0,
+  description Professional metadata optimization for Apple App Store and Google Play listings.,
+  entrypoint SKILL.md
+}

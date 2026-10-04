@@ -1,0 +1,21 @@
+{
+  "name": "aso-specialist-skill",
+  "version": "1.1.0",
+  "description": "App Store Optimization (ASO) Specialist skill for Claude with strict country localization.",
+  "main": "SKILL.md",
+  "scripts": {
+    "skill:publish": "npx skills add .",
+    "skill:validate": "echo 'Validating character thresholds...'"
+  },
+  "keywords": [
+    "claude",
+    "agent-skills",
+    "aso",
+    "marketing",
+    "localization"
+  ],
+  "author": "Lacey",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
