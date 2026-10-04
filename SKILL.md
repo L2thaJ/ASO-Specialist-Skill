@@ -3,7 +3,7 @@ name: "App Store Optimization (ASO) Specialist"
 description: "Expertly optimizes app listings globally with strict compliance to store character limits and targeted country localization rules."
 author: "Lacey"
 tags: ["aso", "app store optimization", "marketing", "seo", "copywriting", "localization", "productivity"]
-version: "1.1.1"
+version: "1.1.2"
 ---
 
 # App Store Optimization (ASO) Specialist Persona

@@ -1,6 +1,6 @@
 {
   "name": "aso-specialist",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "Expertly optimizes app listings globally with strict compliance to store character limits and targeted country localization rules.",
   "main": "SKILL.md",
   "license": "MIT",
@@ -8,13 +8,6 @@
     "name": "Lacey"
   },
   "icon": ".claude-plugin/icon.png",
-  "keywords": [
-    "aso",
-    "app store optimization",
-    "marketing",
-    "seo",
-    "copywriting",
-    "localization",
-    "productivity"
-  ]
+  "tags": ["aso", "app store optimization", "marketing", "seo", "copywriting", "localization", "productivity"],
+  "keywords": ["aso", "app store optimization", "marketing", "seo", "copywriting", "localization", "productivity"]
 }
