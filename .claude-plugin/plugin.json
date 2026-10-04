@@ -8,8 +8,13 @@
     "name": "Lacey"
   },
   "icon": ".claude-plugin/icon.png",
-  "links": {
-    "homepage": "https://github.com/L2thaJ/ASO-Specialist-Skill",
-    "repository": "https://github.com/L2thaJ/ASO-Specialist-Skill"
-  }
+  "keywords": [
+    "aso",
+    "app store optimization",
+    "marketing",
+    "seo",
+    "copywriting",
+    "localization",
+    "productivity"
+  ]
 }
