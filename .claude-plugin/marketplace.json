@@ -4,14 +4,13 @@
     "name": "Lacey",
     "email": "divamom9@gmail.com"
   },
-  "tags": ["aso", "app store optimization", "marketing", "seo", "copywriting", "localization", "productivity"],
+  "description": "Write App Store and Google Play listings that fit every character limit, pass review, and rank, in any language.",
   "plugins": [
     {
       "name": "aso-specialist",
       "source": "./",
-      "description": "Expertly optimizes app listings globally with strict compliance to store character limits and targeted country localization rules.",
-      "version": "1.1.3",
-      "entrypoint": "SKILL.md"
+      "description": "Write App Store and Google Play listings that fit every character limit, pass review, and rank, in any language.",
+      "version": "1.1.4"
     }
   ]
 }
